@@ -1,0 +1,1 @@
+cmd_crypto/cast5.ko := /home/percy/sgy/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/percy/sgy/kernel/common/scripts/module-common.lds --build-id -o crypto/cast5.ko crypto/cast5.o crypto/cast5.mod.o

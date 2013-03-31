@@ -1,0 +1,1 @@
+cmd_crypto/ghash-generic.ko := /home/percy/sgy/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/percy/sgy/kernel/common/scripts/module-common.lds --build-id -o crypto/ghash-generic.ko crypto/ghash-generic.o crypto/ghash-generic.mod.o
