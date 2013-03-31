@@ -1,0 +1,6 @@
+kernel/lib/crc-itu-t.ko
+kernel/lib/crc7.ko
+kernel/lib/lzo/lzo_compress.ko
+kernel/lib/lzo/lzo_decompress.ko
+kernel/lib/lzo/lzo_compress.ko
+kernel/lib/lzo/lzo_decompress.ko
