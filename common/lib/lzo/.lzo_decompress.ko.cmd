@@ -1,0 +1,1 @@
+cmd_lib/lzo/lzo_decompress.ko := /home/percy/sgy/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/percy/sgy/kernel/common/scripts/module-common.lds --build-id -o lib/lzo/lzo_decompress.ko lib/lzo/lzo_decompress.o lib/lzo/lzo_decompress.mod.o
